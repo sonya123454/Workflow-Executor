@@ -1,7 +1,7 @@
 В файлах ConsoleApplication1/workwlow*.txt - задания для executor
 В файлах ConsoleApplication1/example*.in - входные файлы
 В файлах ConsoleApplication1/example*.out - выходные файлы
-запуск через командную строку vs executor.exe workflow2.txt
+запуск через командную строку vs: $ executor.exe workflow2.txt
 
 
 Test Task. Implement Workflow Executor

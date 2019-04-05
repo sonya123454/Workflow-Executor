@@ -1,0 +1,19 @@
+﻿  unittest1.cpp
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(45): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(72): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(88): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(96): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(109): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(115): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(128): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(162): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(168): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(171): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(188): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(190): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(213): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\msson\source\repos\consoleapplication1\consoleapplication1\executor.cpp(217): warning C4018: <: несоответствие типов со знаком и без знака
+     ╤ючфрхЄё  сшсышюЄхър C:\Users\msson\source\repos\ConsoleApplication1\Debug\UnitTest1.lib ш юс·хъЄ C:\Users\msson\source\repos\ConsoleApplication1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\msson\source\repos\ConsoleApplication1\Debug\UnitTest1.dll

@@ -1,3 +1,9 @@
+В файлах ConsoleApplication1/workwlow*.txt - задания для executor
+В файлах ConsoleApplication1/example*.in - входные файлы
+В файлах ConsoleApplication1/example*.out - выходные файлы
+запуск через командную строку vs executor.exe workflow2.txt
+
+
 Test Task. Implement Workflow Executor
 
 Workflow provides an infrastructure for the set-up, performance and monitoring of a defined sequence of tasks, arranged as a workflow application

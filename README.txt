@@ -1,4 +1,5 @@
 Test Task. Implement Workflow Executor
+
 Workflow provides an infrastructure for the set-up, performance and monitoring of a defined sequence of tasks, arranged as a workflow application
 
 
@@ -69,3 +70,4 @@ End
 
 Про sleep – windows – linux
 Не поняла про синхронизация = она же вроде один раз должна включаться?
+

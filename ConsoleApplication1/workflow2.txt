@@ -1,0 +1,13 @@
+desc example 2
+1 = replace super good
+2 = writefile example2.out
+4 = readfile example2.0.in
+5 = readfile example2.1.in
+6. sort 
+7. grep weather
+8 = synch
+9 = readfile example2.2.in
+End
+8->4->1->5->8->6->2
+5->7->6->2->8 
+9->6->8->2
